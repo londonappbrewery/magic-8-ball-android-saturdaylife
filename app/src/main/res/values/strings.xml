@@ -3,4 +3,5 @@
     <string name="askButton">Ask</string>
     <string name="textBanner">Make everyday decisions easier!</string>
     <string name="image_eightBall">Eight Ball Image</string>
+    <string name="bannerBackground">Banner Background</string>
 </resources>
